@@ -23,7 +23,7 @@
     "qrcode-reader": "^1.0.4",
     "request": "^2.88.0",
     "sharp": "^0.23.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.2"
   }
 }
